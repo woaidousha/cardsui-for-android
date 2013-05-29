@@ -19,6 +19,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
+		//Test woaidousha git
 		// init CardView
 		mCardView = (CardUI) findViewById(R.id.cardsview);
 		mCardView.setSwipeable(false);
